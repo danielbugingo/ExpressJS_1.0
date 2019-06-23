@@ -1,0 +1,13 @@
+/bin
+/Exercise Files
+/routes
+/xxxxxxxxxxxxxx
+*.turtle
+*.wt
+readFromFileSync.js
+/views
+/public
+.idea
+router.js
+server.js
+writeToConsole.js
